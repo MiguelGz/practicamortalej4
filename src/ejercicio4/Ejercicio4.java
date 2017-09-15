@@ -46,7 +46,7 @@ public class Ejercicio4 {
         intento=0;
     
         //Creamos nuestra variable aleatoria secreta que estara entre el 1 a 100
-        secreto=aleatorio.nextInt(10);
+        secreto=aleatorio.nextInt(100);
         
          do
             {
